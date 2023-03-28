@@ -119,6 +119,11 @@ https://www.youtube.com/@DaveGrayTeachesCode
         CSS: marginTop: "2rem"
         JavaScript: ??? <ul>...</ul> ???
 
+        Hint:
+        (HTML element)
+        {{CSS style}}
+        {JavaScript expression}
+
 ### 20. When will we load state from localStorage?
         概述下一章的內容。
 
